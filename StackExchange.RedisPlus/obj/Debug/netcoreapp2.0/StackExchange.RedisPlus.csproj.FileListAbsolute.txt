@@ -1,9 +1,0 @@
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\bin\Debug\netcoreapp2.0\StackExchange.RedisPlus.deps.json
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\bin\Debug\netcoreapp2.0\StackExchange.RedisPlus.dll
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\bin\Debug\netcoreapp2.0\StackExchange.RedisPlus.pdb
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.csprojResolveAssemblyReference.cache
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.csproj.CoreCompileInputs.cache
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.AssemblyInfoInputs.cache
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.AssemblyInfo.cs
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.dll
-C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.pdb

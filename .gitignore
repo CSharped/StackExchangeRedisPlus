@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/StackExchange.RedisPlus/v15/Server/sqlite3
+/.vs/StackExchange.RedisPlus/v15/.suo
