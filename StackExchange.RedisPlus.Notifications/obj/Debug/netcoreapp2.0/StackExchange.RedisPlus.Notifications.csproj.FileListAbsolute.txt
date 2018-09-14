@@ -1,0 +1,8 @@
+C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus.Notifications\bin\Debug\netcoreapp2.0\StackExchange.RedisPlus.Notifications.deps.json
+C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus.Notifications\bin\Debug\netcoreapp2.0\StackExchange.RedisPlus.Notifications.dll
+C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus.Notifications\bin\Debug\netcoreapp2.0\StackExchange.RedisPlus.Notifications.pdb
+C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus.Notifications\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.Notifications.csproj.CoreCompileInputs.cache
+C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus.Notifications\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.Notifications.AssemblyInfoInputs.cache
+C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus.Notifications\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.Notifications.AssemblyInfo.cs
+C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus.Notifications\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.Notifications.dll
+C:\Users\s.pradeep\source\repos\StackExchange.RedisPlus\StackExchange.RedisPlus.Notifications\obj\Debug\netcoreapp2.0\StackExchange.RedisPlus.Notifications.pdb
