@@ -10,7 +10,7 @@ which has millions of rows.
 While Redis helps us to retreive data faster, but an App using Redis will also have to face the problem of network latecny sometimes, which
 will not give you the desired performance results from the App.
 
-So this library helps you to also tacle network latency by storing the data with in the Server in InMemory!!!. At the same time will utilize
+So this library helps you to also tackle network latency by storing the data with in the Server in InMemory!!!. At the same time will utilize
 KeySpace Notifications from Redis to Clear InMemory Cache when required.
 
 Usage:- 
